@@ -1,0 +1,8 @@
+{
+  "name": "genpark-semantic-web-crawler-and-clean-markdown-distiller-skill",
+  "version": "1.0.0",
+  "description": "Extracts clean LLM-ready Markdown and citation links from raw HTML while stripping scripts, navbars, and boilerplate",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
